@@ -1,3 +1,4 @@
 <?php
 
-$id = $_Get "id"
+$id = $_GET ['id'];
+$firstname = $_GET ['firstname'];
